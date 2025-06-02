@@ -5,5 +5,6 @@ Paso 1
 Paso 2
 
 .. image:: imagenes/importar-imagen-r.png
-  :width: 200
-  :alt: Alternative text
+   :height: 100
+   :width: 200
+   :alt: alternate text
